@@ -127,5 +127,8 @@ Passionate about creating **impact-driven tech solutions**, interactive UIs, and
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vishuddhijain&layout=compact&theme=radical)
 
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Vishuddhijain)
+![Followers](https://img.shields.io/github/followers/Vishuddhijain?label=Followers)
+![Stars](https://img.shields.io/github/stars/Vishuddhijain?affiliations=OWNER&label=Total%20Stars)
 
 ---
