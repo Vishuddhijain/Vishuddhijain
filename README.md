@@ -135,5 +135,6 @@ Passionate about creating **impact-driven tech solutions**, interactive UIs, and
   />
 </p>
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vishuddhijain&show_icons=true&theme=radical" />
 
 ---
