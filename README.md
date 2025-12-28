@@ -121,20 +121,11 @@ Passionate about creating **impact-driven tech solutions**, interactive UIs, and
 > **Tech:** HTML, CSS
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vishuddhijain&show_icons=true&theme=radical" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishuddhijain&layout=compact&theme=radical" 
-    height="170"
-  />
-</p>
+![Vishuddhi Jain's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vishuddhijain&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vishuddhijain&show_icons=true&theme=radical" />
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vishuddhijain&layout=compact&theme=radical)
+
 
 ---
