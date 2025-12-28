@@ -1,16 +1,132 @@
-## Hi there 👋
+# 👋 Hi, I'm **Vishuddhi Jain**
 
-<!--
-**Vishuddhijain/Vishuddhijain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Software Engineer | AI-Enabled Web Developer
 
-Here are some ideas to get you started:
+I build **scalable, user-centric web applications** by combining modern frontend frameworks with robust backend systems and **AI-powered intelligence**.
+Passionate about creating **impact-driven tech solutions**, interactive UIs, and intelligent platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I’m Currently Working On
+
+* Building **full-stack MERN applications** enhanced with **AI capabilities**
+* Integrating **OpenAI APIs** into real-world products
+* Creating **interactive & animated UIs** using GSAP and modern frontend stacks
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced **React patterns & state management**
+* **AI-driven applications**, ML fundamentals & intelligent recommendation systems
+* Building production-ready apps with clean architecture
+
+---
+
+## 🤝 Open to Collaborations
+
+* AI-powered web applications
+* Full-stack projects with real-world impact
+* Hackathons, open-source, and innovative developer tools
+
+---
+
+## 💬 Ask Me About
+
+* Full Stack Web Development (MERN)
+* Frontend animations (GSAP, modern UI)
+* AI integration in web apps
+* Problem solving with **C++ & Python**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vue.js)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+
+---
+
+### 🤖 AI & Programming Languages
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![Java](https://img.shields.io/badge/Java-Basic-red?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Dropout Prediction Portal
+
+> ML-powered system to predict student dropout risks using data-driven insights
+> **Tech:** Python, Machine Learning
+
+---
+
+### 📰 News Recommendation System
+
+> Personalized news recommendation engine using intelligent filtering
+> **Tech:** Python, Recommendation Systems
+
+---
+
+### 🏥 Hospital Scheduling Simulator
+
+> Interactive visualization of scheduling algorithms inspired by real-world healthcare workflows
+> **Tech:** JavaScript, Web Visualization
+
+---
+
+### 🤖 Vishuddhi Virtual Assistant
+
+> AI-based virtual assistant for smart task handling and automation
+> **Tech:** JavaScript, AI APIs
+
+---
+
+### 🎮 3D Gaming Website
+
+> Interactive and animated gaming website with immersive UI
+> **Tech:** JavaScript, GSAP
+
+---
+
+### 🎨 Modern Gaming UI
+
+> Clean and responsive gaming interface focused on modern UI/UX
+> **Tech:** HTML, CSS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishuddhijain&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishuddhijain&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
