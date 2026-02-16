@@ -1,79 +1,168 @@
-# 👋 Hi, I'm **Vishuddhi Jain**
+<!-- Animated Wave Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=280&section=header&text=Vishuddhi%20Jain&fontSize=90&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer%20&descAlignY=55&animation=fadeIn" alt="header"/>
+</div>
 
-### 🚀 Full Stack Developer | Software Engineer | AI-Enabled Web Developer
+<!-- Typing SVG -->     
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+my+Digital+Space!+%F0%9F%9A%80;A+Passionate+Learner+and+Full+Stack+Developer+%F0%9F%A4%96;Exploring+the+World+of+Tech!+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" 
+    alt="Typing SVG" />
+  </a>
+</div>   
 
-I build **scalable, user-centric web applications** by combining modern frontend frameworks with robust backend systems and **AI-powered intelligence**.
-Passionate about creating **impact-driven tech solutions**, interactive UIs, and intelligent platforms.
 
----
+<br/>
 
-## 🔭 What I’m Currently Working On
+<!-- About Me Section with Animated Border -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-* Building **full-stack MERN applications** enhanced with **AI capabilities**
-* Integrating **OpenAI APIs** into real-world products
-* Creating **interactive & animated UIs** using GSAP and modern frontend stacks
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
----
+<div align="center">
+  <img align="right" width="400" src="https://github.com/user-attachments/assets/6f2c1593-00c8-4fb2-9a6e-95423ff98ab3" alt="Vishuddhi Jain" />
+  
+  <div align="left">
 
-## 🌱 Currently Exploring
+🔭 Building **AI-powered, scalable web applications** with real-world impact  
 
-* Advanced **React patterns & state management**
-* **AI-driven applications**, ML fundamentals & intelligent recommendation systems
-* Building production-ready apps with clean architecture
+🌱 Deepening my expertise in **Machine Learning, Deep Learning, and AI Agents**  
 
----
+💡 Actively seeking **SDE / Full-Stack / AI-integrated Product Engineering roles**
 
-## 🤝 Open to Collaborations
+</div>
 
-* AI-powered web applications
-* Full-stack projects with real-world impact
-* Hackathons, open-source, and innovative developer tools
+</div>
 
----
+<br clear="both">
 
-## 💬 Ask Me About
+<!-- Connect with Me Section -->
 
-* Full Stack Web Development (MERN)
-* Frontend animations (GSAP, modern UI)
-* AI integration in web apps
-* Problem solving with **C++ & Python**
+<h2 align="center">
+  Let's Connect
+</h2>
 
----
+<div align="center">
+  <a href="vishuddhi0303.jain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishuddhi-jain-237439338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Vishuddhijain" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+    alt="GitHub Badge" />
+</a>
 
-## 🛠️ Tech Stack & Tools
+</div>
 
-### 🌐 Frontend
+<!-- Tech Stack Section -->
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vue.js)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
+  Tech Stack & Tools
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
+</h2>
 
----
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" />
+</div>
+</details>
 
-### ⚙️ Backend & Databases
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</div>
+</details>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+<details open>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</div>
+</details>
 
----
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c" />
+</div>
+</details>
 
-### 🤖 AI & Programming Languages
+<details open>
+<summary><b>🔧 Tools & Others</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm" />
+</div>
+</details>
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![Java](https://img.shields.io/badge/Java-Basic-red?style=for-the-badge)
+<!-- GitHub Stats Section -->
 
----
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+  GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vishuddhijain&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Vishuddhi Jain github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishuddhijain&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">
+  ✨ Daily Dev Quote ✨
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=100&section=footer&fontSize=90&fontAlignY=65&desc=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20amazing%20things%20together.&descAlignY=70&descSize=18&animation=twinkling" alt="footer"/>
+</div>
+
+<div align="center">
+  <!-- <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" /> -->
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://img.shields.io/badge/Code-Eat-Sleep-black?style=for-the-badge" alt="Code Eat Sleep" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
+</div>
+
+<div align="center">
+  <sub>⭐ If you like my work, consider starring some of my repositories!</sub>
+</div>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
+<br>
