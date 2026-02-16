@@ -50,7 +50,7 @@
 </h2>
 
 <div align="center">
-  <a href="vishuddhi0303.jain@gmail.com">
+  <a href="mailto:vishuddhi0303.jain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/vishuddhi-jain-237439338/">
@@ -147,15 +147,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=100&section=footer&fontSize=90&fontAlignY=65&desc=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20amazing%20things%20together.&descAlignY=70&descSize=18&animation=twinkling" alt="footer"/>
 </div>
 
+<br>
+
 <div align="center">
-  <!-- <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" /> -->
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://img.shields.io/badge/Code-Eat-Sleep-black?style=for-the-badge" alt="Code Eat Sleep" />
+  <img src="https://img.shields.io/badge/Build-Ship%20Repeat-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Build Ship Repeat" />
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
 </div>
 
+<br>
 <div align="center">
   <sub>⭐ If you like my work, consider starring some of my repositories!</sub>
 </div>
